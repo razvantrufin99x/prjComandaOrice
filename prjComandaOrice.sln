@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00000000-0000-0000-0000-000000000000}") = "ComandaOrice", "ComandaOrice\ComandaOrice.csproj", "{73270452-CE76-4079-908F-A8D85D8BC4AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3AD5B394-2701-485A-BA9C-0ECE3EEFCA8E}"
+	ProjectSection(SolutionItems) = preProject
+		ComandaOrice\Client.cs = ComandaOrice\Client.cs
+		ComandaOrice\Comanda.cs = ComandaOrice\Comanda.cs
+		ComandaOrice\Comentariu.cs = ComandaOrice\Comentariu.cs
+		ComandaOrice\Cos.cs = ComandaOrice\Cos.cs
+		ComandaOrice\Curier.cs = ComandaOrice\Curier.cs
+		ComandaOrice\FirmaDeCurierat.cs = ComandaOrice\FirmaDeCurierat.cs
+		ComandaOrice\Furnizor.cs = ComandaOrice\Furnizor.cs
+		ComandaOrice\Magazin.cs = ComandaOrice\Magazin.cs
+		ComandaOrice\Pereche.cs = ComandaOrice\Pereche.cs
+		ComandaOrice\Persoana.cs = ComandaOrice\Persoana.cs
+		ComandaOrice\Produs.cs = ComandaOrice\Produs.cs
+		ComandaOrice\tabelInformatii.cs = ComandaOrice\tabelInformatii.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B5E0485-D47C-4432-B76E-53B512DBD2A3}
+	EndGlobalSection
+EndGlobal
